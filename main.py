@@ -9,7 +9,6 @@ import os
 from pathlib import Path
 import helper as h
 from googlesheets import GoogleSheets
-from env import Env as e
 
 def get_args():
   parser = argparse.ArgumentParser()
@@ -22,7 +21,7 @@ def get_args():
   parser.add_argument('-m', 
     '--mac_add', 
     type=str, 
-    default=e.DEFAULT_MAC_ADD, 
+    required=True, 
     help='mac address to track'
   )
 
