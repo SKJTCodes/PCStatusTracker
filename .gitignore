@@ -4,3 +4,4 @@ __pycache__/
 
 env.py
 api_creds.json
+*.log.txt
