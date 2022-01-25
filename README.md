@@ -1,5 +1,7 @@
 
 # Project Description
+This project is used on a raspberry pi that scans every 30 minutes to check if a certain MAC address is currently on the network. Basically, this script checks if a PC is powered ON or OFF.
+
 ## Video on how to use google sheet in python
 since we are using google sheet to store data, google cloud platform is required. [Tutorial here](https://www.youtube.com/watch?v=cnPlKLEGR7E).
 
