@@ -1,0 +1,6 @@
+log/
+.idea/
+__pycache__/
+
+env.py
+api_creds.json

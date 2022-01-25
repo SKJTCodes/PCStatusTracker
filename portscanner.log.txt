@@ -1,0 +1,9 @@
+20220125-1008.01 INFO     [32m[32m    Desc : None[0m[0m
+20220125-1008.01 INFO     [32m[32m  Module : portscanner[0m[0m
+20220125-1008.01 INFO     [32m[32m    Date : 20220125-1008.01[0m[0m
+20220125-1008.01 INFO     [32m[32m    User : root[0m[0m
+20220125-1008.01 INFO     [32m[32m    Name : root[0m[0m
+20220125-1008.01 INFO     [32m[32m    Host : raspberrypi[0m[0m
+20220125-1008.01 INFO     [32m[32m      IP : ['127.0.1.1'][0m[0m
+20220125-1008.01 INFO     [32m[32m     cwd : /home/pi/Source_Code/PCStatusTracker[0m[0m
+20220125-1008.01 INFO     [32m[32m log dir : /home/pi/Source_Code/PCStatusTracker[0m[0m
